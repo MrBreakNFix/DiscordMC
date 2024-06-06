@@ -5,13 +5,13 @@
 	"name": "DiscordMC",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"MrBreakNFix"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://mrbreaknfix.com/",
+		"sources": "https://github.com/MrBrakNFix/DiscordMC"
 	},
-	"license": "CC0-1.0",
+	"license": "CC BY-NC-SA 4.0",
 	"icon": "assets/discordmc/icon.png",
 	"environment": "*",
 	"entrypoints": {
