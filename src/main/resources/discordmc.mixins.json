@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.mrbreaknfix.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+      "ChatScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
